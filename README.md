@@ -1,4 +1,4 @@
-# lucky-vk<<div align="center">
+# lucky-vk<div align="center">
 
   <!-- 3D Cyber Wave Banner Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CBF,100:000000&height=220&section=header&text=LUCKY%20%E2%9A%A1%EF%B8%8F&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
